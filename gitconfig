@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = l.kirschning@yahoo.de
+	name = Ludwig Kirschning
